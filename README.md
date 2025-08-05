@@ -1,5 +1,5 @@
 ## Hi, My name is Amaka Ibeme 👋
-## I’m currently exploring penetration testin and soc analysis
+## I’m currently exploring Penetration testing and SOC analysis
 
 <!--
 **TellAimee/TellAimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
