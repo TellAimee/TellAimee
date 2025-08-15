@@ -1,4 +1,4 @@
-## Hi there
+## Hi there.
 ## My name is Amaka Ibeme, an aspiring Cybersecurity Analyst.
 ## I’m currently exploring Penetration testing and SOC analysis and hoping to get to work soon to apply all I have learnt and practised so far.
 
