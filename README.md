@@ -1,6 +1,6 @@
-## Hi there,
+## Hi there
 ## My name is Amaka Ibeme, an aspiring Cybersecurity Analyst.
-## I’m currently exploring Penetration testing and SOC analysis
+## I’m currently exploring Penetration testing and SOC analysis and hoping to get to work soon to apply all I have learnt and practised s0 far.
 
 <!--
 **TellAimee/TellAimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
